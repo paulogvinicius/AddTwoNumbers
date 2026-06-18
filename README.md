@@ -1,13 +1,3 @@
-# 🚀 [Nome do Projeto]
-
-> [Uma frase curta e de impacto que resume o que o projeto faz. Ex: "Uma API RESTful para gerenciamento de livrarias desenvolvida em Java e Spring Boot."]
-
----
-
-## 💻 Sobre o Projeto
-
-[Explique aqui com um pouco mais de detalhes o problema que seu projeto resolve, o contexto em que ele foi criado e o objetivo principal.]
-
 ### 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído utilizando as seguintes tecnologias, ferramentas e bibliotecas:
